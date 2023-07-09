@@ -1,0 +1,5 @@
+# KrypDAQ
+LabVIEW Library For KryDAQ USB Device
+
+The KrypDAQ library is a LabVIEW project file which contains all the necessary VIs to operate each function of KrypDAQ USB device. It also contains sample programs for each function at which the user can use or copy to create his/her own program. This library is under continuous program to develop more examples using other peripheral devices and functions not stated in the documentation to make KrypDAQ even more multifunctional yet cheaper in cost than other available DAQ devices in the market.
+Though KrypDAQ was developed to operate under LabVIEW software, KrypDAQ is not a product by NI (National Instruments) therefore using KrypDAQ is not similar to using NI hardware of LabVIEW. The NI hardware of LabVIEW communicates through DAQ driver while KrypDAQ communicates using its own KrypDAQ LabVIEW library which was developed solely for this device. This means that MAX, DAQ assistant and or similar NI wizards cannot be used upon KrypDAQ device. Even so, the library of KRYPDAQ is very easy to install and use with lots of useful features and examples thus users do not have to start from a scratch.
